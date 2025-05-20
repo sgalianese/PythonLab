@@ -29,7 +29,7 @@ Program several tasks involving Python Math:
  <b>Take order<b>
  <b>Ask for quantity and calculate total cost<b>
  <b>Confirm order and total cost: <br/>
-
+<img src="https://i.imgur.com/buUIQtW.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 </p>
 
 <!--
