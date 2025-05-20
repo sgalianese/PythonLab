@@ -9,21 +9,20 @@ In this lab, we are going to walk through how to create an Active Directory home
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
-- <b>Active Directory</b>
+- <b>Python</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Python</b> (21H2)
+- <b>Replit</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Program several tasks involving Python Math:
- Take order
- Ask for quantity and calculate total cost
- Confirm order and total cost: <br/>
+ <b>Take order<b>
+ <b>Ask for quantity and calculate total cost<b>
+ <b>Confirm order and total cost: <br/>
 <img src="https://i.imgur.com/buUIQtW.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
