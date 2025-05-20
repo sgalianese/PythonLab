@@ -1,4 +1,4 @@
-<h1Python Robot Barista</h1>
+Python Robot Barista
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=mRMmlo_Uqcs)
 
