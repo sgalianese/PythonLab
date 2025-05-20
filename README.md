@@ -1,9 +1,9 @@
-<h1>Active Directory Home Lab</h1>
+<h1Python Robot Barista</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=mRMmlo_Uqcs)
 
 <h2>Description</h2>
-The Python Robot Barista Project is a fun and educational coding exercise that teaches Python programming concepts through the creation of a virtual coffee shop. The project involves programming a robot barista that interacts with customers by greeting them, taking their orders, and preparing virtual coffee beverages2.
+The Python Robot Barista Project is a fun and educational coding exercise that teaches Python programming concepts through the creation of a virtual coffee shop. The project involves programming a robot barista that interacts with customers by greeting them, taking their orders, and preparing virtual coffee beverages.
 
 The code includes:
 User interaction: The robot asks for the customer's name and welcomes them.
