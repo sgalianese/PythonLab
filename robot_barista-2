@@ -12,3 +12,4 @@ math = 40 + 40.25
 result = (age + actual_age + math)
 
 print(result)
+<img src="https://i.imgur.com/xcvX1IX.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
