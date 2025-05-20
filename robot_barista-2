@@ -1,0 +1,14 @@
+# Variables
+#Let's play with some numbers
+
+name = "Sean Galianese"
+
+age = 40
+
+actual_age = 40.25
+
+math = 40 + 40.25
+
+result = (age + actual_age + math)
+
+print(result)
