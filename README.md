@@ -36,7 +36,7 @@ Program Robot Barista Bouncer using If\Else\Except statements:
  <b>Remove guest if name is Ben<b>
  <b>Guests cut line if beard is over 1 inch long<b>
  <b>Confirm order and total cost: <br/>
-<img src="https://imgur.com/0KhGYPb" height="80%" width="80%" alt="Active Directory Home Lab"/>
+<img src="https://imgur.com/0KhGYPb.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 </p>
 
 <!--
